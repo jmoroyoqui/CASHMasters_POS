@@ -1,4 +1,9 @@
-﻿using System;
+﻿// ============================================================
+// Author: Julio Cesar Moroyoqui Gil
+// Date: Jan 07, 2025
+// ============================================================
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

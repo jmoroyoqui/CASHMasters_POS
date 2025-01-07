@@ -1,4 +1,9 @@
-﻿using CASHMasters_POS.Misc;
+﻿// ============================================================
+// Author: Julio Cesar Moroyoqui Gil
+// Date: Jan 07, 2025
+// ============================================================
+
+using CASHMasters_POS.Misc;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;

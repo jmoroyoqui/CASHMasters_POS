@@ -1,4 +1,9 @@
-﻿using CASHMasters_POS.Interfaces;
+﻿// ============================================================
+// Author: Julio Cesar Moroyoqui Gil
+// Date: Jan 07, 2025
+// ============================================================
+
+using CASHMasters_POS.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

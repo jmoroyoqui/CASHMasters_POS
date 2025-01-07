@@ -1,4 +1,9 @@
-﻿using CASHMasters_POS.ErrorHandled;
+﻿// ============================================================
+// Author: Julio Cesar Moroyoqui Gil
+// Date: Jan 07, 2025
+// ============================================================
+
+using CASHMasters_POS.ErrorHandled;
 using CASHMasters_POS.Management;
 using CASHMasters_POS.Misc;
 using CASHMasters_POS.Payments;
